@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Silkscreen&display=swap');
+
+h1{
+    font-family: Silkscreen;
+    text-align: center
+}
+
+
+.column{
+    border: 1px solid red;
+}
